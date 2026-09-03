@@ -78,12 +78,16 @@ Publish with GitHub Pages using the official Pages Actions flow:
 - upload-pages-artifact
 - deploy-pages
 
-Workflow triggers on pushes to `main` and can also be run manually. The deployment will be verified by checking the workflow run and the public Pages URL.
+Workflow triggers on pushes to `main` and can also be run manually.
+
+**Published URL:** https://prithiraj.github.io/flatwood-equ/
+
+The first deployment completed successfully in GitHub Actions run `33785237699` on September 3, 2026. The final documentation update is also deployed through the same workflow.
 
 ## Acceptance checklist
 
 - [x] Plan written before implementation.
-- [x] Responsive home page implemented locally.
+- [x] Responsive home page implemented.
 - [x] Only verified business claims used.
 - [x] Real photography used; representative images are not misrepresented.
 - [x] Three.js is complementary and gracefully optional.
@@ -94,8 +98,8 @@ Workflow triggers on pushes to `main` and can also be run manually. The deployme
 - [x] README documents local use, sources, and deployment.
 - [x] GitHub Pages workflow prepared.
 - [x] Repository write access granted to the connected GitHub app.
-- [ ] Files pushed to `main`.
-- [ ] Deployment run checked and public URL verified.
+- [x] Files pushed to `main`.
+- [x] Deployment run checked and public URL verified.
 
 ## Research sources
 
